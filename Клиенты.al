@@ -39,6 +39,11 @@ table 50100 MyTable
         {
             Clustered = true;
         }
+        key(sk; City)
+        {
+
+
+        }
 
     }
 
