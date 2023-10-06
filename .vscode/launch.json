@@ -7,7 +7,7 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "bc",
-            "server": "https://SCA-RU-V22r5SSL",
+            "server": "https://RU-V22r5SSLL",
             "startupObjectId": 50100,
             "startupObjectType": "Table",
             "breakOnError": "All",

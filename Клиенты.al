@@ -15,11 +15,21 @@ table 50100 MyTable
         {
             DataClassification = ToBeClassified;
         }
-        field(30; "gender"; option)
+        field(30; "Salary"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+        }
+        field(40; "gender"; option)
 
         {
             Optionmembers = M,F;
             DataClassification = ToBeClassified;
+        }
+        field(50; "City"; option)
+        {
+            Optionmembers = Moscow,Ekaterinburg,Bryansk;
+            DataClassification = ToBeClassified;
+
         }
     }
 
